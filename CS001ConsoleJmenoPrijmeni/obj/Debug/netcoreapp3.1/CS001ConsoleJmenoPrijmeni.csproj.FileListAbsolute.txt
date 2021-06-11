@@ -1,0 +1,13 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\bin\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.exe
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\bin\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.deps.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\bin\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.runtimeconfig.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\bin\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.runtimeconfig.dev.json
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\bin\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\bin\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\obj\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\obj\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.AssemblyInfoInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\obj\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.AssemblyInfo.cs
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\obj\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.csproj.CoreCompileInputs.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\obj\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.dll
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\obj\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.pdb
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni\obj\Debug\netcoreapp3.1\CS001ConsoleJmenoPrijmeni.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS001ConsoleJmenoPrijmeni", "CS001ConsoleJmenoPrijmeni\CS001ConsoleJmenoPrijmeni.csproj", "{680E76C4-7E5E-492E-9350-F84F8AD8C062}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{680E76C4-7E5E-492E-9350-F84F8AD8C062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680E76C4-7E5E-492E-9350-F84F8AD8C062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680E76C4-7E5E-492E-9350-F84F8AD8C062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680E76C4-7E5E-492E-9350-F84F8AD8C062}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7375D4-E72E-4876-8A0E-782A62AEB127}
+	EndGlobalSection
+EndGlobal
